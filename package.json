@@ -4,6 +4,7 @@
   "description": "A name collector for the JDriven FE-Label slack channel",
   "main": "index.js",
   "scripts": {
+    "start": "node server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
