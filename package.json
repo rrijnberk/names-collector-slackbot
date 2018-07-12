@@ -1,0 +1,19 @@
+{
+  "name": "name-collector",
+  "version": "1.0.0",
+  "description": "A name collector for the JDriven FE-Label slack channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Slack",
+    "WebHook"
+  ],
+  "author": "Richard Rijnberk <r.rijnberk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs-extra": "^6.0.1"
+  }
+}
